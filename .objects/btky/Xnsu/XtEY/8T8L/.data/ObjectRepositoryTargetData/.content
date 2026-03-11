@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="u24xYBPBt02INFnF5fzptQ" Reference="Req9SxZ9mEmPzZSnXuX9dA/8T8LeFc6k0GfQC806sZR4w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="09e0e36e-3201-4d7f-b1df-2cbcf11cf8a8" CvElementArea="207, 891, 93, 54" CvTextArea="227, 908, 54, 24" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="210, 893, 89, 50" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="07f54d89-8349-4080-8915-e1de312b6591" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="09e0e36e-3201-4d7f-b1df-2cbcf11cf8a8" CvTextArea="104, 341, 130, 57" CvTextArgument="Login" CvType="Text" DesignTimeRectangle="105, 336, 1710, 74" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='page-header' aaname='                                                                                                                                                                                     Login                                                         ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Login' /&gt;" Guid="79e5363f-5e4f-4a7f-bc89-9e7fb5359081" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fe98f9197c1d60d7d84db3be2aad1f4e.jpg" xmlns="">05F77y4OtZ0SNVnSKkzwkqQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
